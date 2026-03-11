@@ -5,6 +5,7 @@
 *.pfsl
 *.d64fsl
 *.p64fsl
+/target/
 *.lx64fsl
 *.lx32fsl
 *.dx64fsl
