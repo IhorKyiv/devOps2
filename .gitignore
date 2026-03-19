@@ -3,6 +3,7 @@
 *.lisp-temp
 *.dfsl
 *.pfsl
+*.jpeg
 *.d64fsl
 *.p64fsl
 /target/
